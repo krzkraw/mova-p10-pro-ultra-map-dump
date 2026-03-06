@@ -1,0 +1,15 @@
+{
+    "StepInfos": [
+        {
+            "stp_x": 1818,
+            "stp_y": 1775,
+            "edp_x": 1826,
+            "edp_y": 1775,
+            "id": 1,
+            "type": 4,
+            "normal_x": 0.0,
+            "normal_y": 0.0,
+            "use": true
+        }
+    ]
+}

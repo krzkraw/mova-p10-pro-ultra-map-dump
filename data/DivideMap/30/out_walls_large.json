@@ -1,0 +1,527 @@
+{
+    "version_flag": 3,
+    "storeys": [
+        {
+            "rooms": [
+                {
+                    "room_id": 5,
+                    "floor_type": 2,
+                    "walls": [
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -3825,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": -3825,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -3825,
+                            "end_pt_y": -2525,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -3825,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -2525,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5775,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5775,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5775,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5775,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5975,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        }
+                    ]
+                },
+                {
+                    "room_id": 6,
+                    "floor_type": 2,
+                    "walls": [
+                        {
+                            "type": 1,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -8375,
+                            "end_pt_x": -4875,
+                            "end_pt_y": -8375,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": -4875,
+                            "beg_pt_y": -8375,
+                            "end_pt_x": -4875,
+                            "end_pt_y": -5975,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": -4875,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -3825,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -3825,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -3825,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -3825,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -8375,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        }
+                    ]
+                },
+                {
+                    "room_id": 2,
+                    "floor_type": 4,
+                    "walls": [
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -2525,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -2525,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -3825,
+                            "end_pt_y": -2525,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": -3825,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -3825,
+                            "end_pt_y": 225,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": -3825,
+                            "beg_pt_y": 225,
+                            "end_pt_x": -825,
+                            "end_pt_y": 225,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": 225,
+                            "end_pt_x": -825,
+                            "end_pt_y": -2525,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        }
+                    ]
+                },
+                {
+                    "room_id": 3,
+                    "floor_type": 2,
+                    "walls": [
+                        {
+                            "type": 0,
+                            "beg_pt_x": 2075,
+                            "beg_pt_y": -4125,
+                            "end_pt_x": -825,
+                            "end_pt_y": -4125,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -4125,
+                            "end_pt_x": -825,
+                            "end_pt_y": -2525,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -825,
+                            "end_pt_y": -2525,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -825,
+                            "end_pt_y": 225,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": 225,
+                            "end_pt_x": 2075,
+                            "end_pt_y": 225,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": 2075,
+                            "beg_pt_y": 225,
+                            "end_pt_x": 2075,
+                            "end_pt_y": -4125,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        }
+                    ]
+                },
+                {
+                    "room_id": 8,
+                    "floor_type": 2,
+                    "walls": [
+                        {
+                            "type": 0,
+                            "beg_pt_x": 2075,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5775,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5775,
+                            "end_pt_x": -825,
+                            "end_pt_y": -5775,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -5775,
+                            "end_pt_x": -825,
+                            "end_pt_y": -4125,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -4125,
+                            "end_pt_x": 2075,
+                            "end_pt_y": -4125,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": 2075,
+                            "beg_pt_y": -4125,
+                            "end_pt_x": 2075,
+                            "end_pt_y": -5975,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        }
+                    ]
+                },
+                {
+                    "room_id": 7,
+                    "floor_type": 2,
+                    "walls": [
+                        {
+                            "type": 1,
+                            "beg_pt_x": 2075,
+                            "beg_pt_y": -8425,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -8425,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -8425,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -8375,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -8375,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -8375,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -8375,
+                            "end_pt_x": -2225,
+                            "end_pt_y": -5975,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -2225,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": 2075,
+                            "end_pt_y": -5975,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 1,
+                            "beg_pt_x": 2075,
+                            "beg_pt_y": -5975,
+                            "end_pt_x": 2075,
+                            "end_pt_y": -8425,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        }
+                    ]
+                },
+                {
+                    "room_id": 9,
+                    "floor_type": 2,
+                    "walls": [
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -5775,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -5775,
+                            "normal_x": 0.0,
+                            "normal_y": -1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -5775,
+                            "end_pt_x": -1975,
+                            "end_pt_y": -2525,
+                            "normal_x": -1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -1975,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -825,
+                            "end_pt_y": -2525,
+                            "normal_x": 0.0,
+                            "normal_y": 1.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -2525,
+                            "end_pt_x": -825,
+                            "end_pt_y": -4125,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -4125,
+                            "end_pt_x": -825,
+                            "end_pt_y": -4125,
+                            "normal_x": 0.0,
+                            "normal_y": 0.0
+                        },
+                        {
+                            "type": 0,
+                            "beg_pt_x": -825,
+                            "beg_pt_y": -4125,
+                            "end_pt_x": -825,
+                            "end_pt_y": -5775,
+                            "normal_x": 1.0,
+                            "normal_y": 0.0
+                        }
+                    ]
+                }
+            ],
+            "doors": [
+                {
+                    "door_type": 0,
+                    "door_id": 9,
+                    "nei_door_id": 2,
+                    "door_status": 0,
+                    "beg_pt_x": -1825,
+                    "beg_pt_y": -2525,
+                    "end_pt_x": -1125,
+                    "end_pt_y": -2525
+                },
+                {
+                    "door_type": 0,
+                    "door_id": 9,
+                    "nei_door_id": 3,
+                    "door_status": 0,
+                    "beg_pt_x": -825,
+                    "beg_pt_y": -3475,
+                    "end_pt_x": -825,
+                    "end_pt_y": -2775
+                },
+                {
+                    "door_type": 0,
+                    "door_id": 9,
+                    "nei_door_id": 5,
+                    "door_status": 0,
+                    "beg_pt_x": -1975,
+                    "beg_pt_y": -5125,
+                    "end_pt_x": -1975,
+                    "end_pt_y": -4325
+                },
+                {
+                    "door_type": 0,
+                    "door_id": 7,
+                    "nei_door_id": 6,
+                    "door_status": 0,
+                    "beg_pt_x": -2225,
+                    "beg_pt_y": -8325,
+                    "end_pt_x": -2225,
+                    "end_pt_y": -6875
+                },
+                {
+                    "door_type": 0,
+                    "door_id": 8,
+                    "nei_door_id": 7,
+                    "door_status": 0,
+                    "beg_pt_x": -1925,
+                    "beg_pt_y": -5975,
+                    "end_pt_x": 1775,
+                    "end_pt_y": -5975
+                },
+                {
+                    "door_type": 0,
+                    "door_id": 9,
+                    "nei_door_id": 8,
+                    "door_status": 0,
+                    "beg_pt_x": -1925,
+                    "beg_pt_y": -5775,
+                    "end_pt_x": -825,
+                    "end_pt_y": -5775
+                }
+            ]
+        }
+    ]
+}

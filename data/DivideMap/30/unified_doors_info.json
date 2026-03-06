@@ -1,0 +1,134 @@
+{
+    "doors": [
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1761,
+                1681
+            ],
+            "end_pt": [
+                1761,
+                1682
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1762,
+                1682
+            ],
+            "end_pt": [
+                1783,
+                1704
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1812,
+                1680
+            ],
+            "end_pt": [
+                1835,
+                1680
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1762,
+                1680
+            ],
+            "end_pt": [
+                1812,
+                1680
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1760,
+                1749
+            ],
+            "end_pt": [
+                1780,
+                1749
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1783,
+                1727
+            ],
+            "end_pt": [
+                1783,
+                1745
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1755,
+                1633
+            ],
+            "end_pt": [
+                1755,
+                1662
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1758,
+                1697
+            ],
+            "end_pt": [
+                1758,
+                1710
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1758,
+                1697
+            ],
+            "end_pt": [
+                1758,
+                1713
+            ]
+        },
+        {
+            "door_type": 9,
+            "door_id": 0,
+            "door_status": 0,
+            "beg_pt": [
+                1758,
+                1710
+            ],
+            "end_pt": [
+                1758,
+                1711
+            ]
+        }
+    ]
+}
